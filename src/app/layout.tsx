@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Victor Wembanyama - L'Alien",
   description: "Stats et performances de Victor Wembanyama avec les San Antonio Spurs",
   icons: {
-    icon: '/assets/images/logo.jpg',
+    icon: '/favicon.ico',
   },
 };
 
